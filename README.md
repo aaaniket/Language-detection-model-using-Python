@@ -1,1 +1,1 @@
-# Language-detection-model-using-Python
+# Language detection model using Python
